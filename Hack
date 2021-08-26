@@ -1,1 +1,1 @@
-May bug out in 1-4!
+No more softlocks! IPS patches only now.
