@@ -1,2 +1,1 @@
-No more softlocks! IPS patches only now.
 Beta for the sequel now included!
